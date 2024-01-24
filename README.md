@@ -1,5 +1,8 @@
 # Algorithms
 
+![algo](https://github.com/Matidza/Algorithms/assets/125007667/085ffc5d-61ab-4f4f-8cf0-13e92c2f7a46)
+
+
 ## Overview
 
 Welcome to the "Algorithms" project! This repository contains implementations of various algorithms in different programming languages. Whether you are a beginner looking to understand fundamental algorithms or an experienced developer seeking efficient solutions, this collection aims to provide a diverse set of algorithms with clear explanations.
