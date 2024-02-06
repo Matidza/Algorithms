@@ -35,7 +35,6 @@ class LinkedList:
         while current:
             count +=1
             current = current.next_node
-
         return count
     
     def add(self,data):

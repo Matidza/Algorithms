@@ -33,6 +33,8 @@ arr = [ 1,5,7,9,4,6,3,8,2,5,4,7, 0,24,6,95,76,0,1,6,9,17,51]
 merge_sort(arr)
 print(arr)
 
+
+
 def merge_sort(num):
     if len(num) > 1:
         left_num = num[0: len(num)//2]

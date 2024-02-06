@@ -25,9 +25,6 @@ Algorithms are essential building blocks for solving computational problems effi
 The algorithms in this repository are implemented in various programming languages, including but not limited to:
 
 - Python
-- Java
-- C++
-- JavaScript
 
 Feel free to contribute implementations in other languages!
 
@@ -36,7 +33,7 @@ Feel free to contribute implementations in other languages!
 The repository is organized into folders, each dedicated to a specific category of algorithms. Here are some of the main categories:
 
 - **Sorting Algorithms:** Implementations of popular sorting algorithms like Bubble Sort, Merge Sort, QuickSort, etc.
-- **Searching Algorithms:** Examples of searching algorithms such as Binary Search, Linear Search, etc.
+- **Searching Algorithms:** Examples of searching algorithms such as Binary Search, Linear Search, Binary Search, etc.
 - **Graph Algorithms:** Algorithms related to graph theory, including Depth-First Search (DFS), Breadth-First Search (BFS), Dijkstra's algorithm, etc.
 - **Dynamic Programming:** Solutions to problems using dynamic programming techniques.
 - **Miscellaneous:** Other algorithms and data structures.
